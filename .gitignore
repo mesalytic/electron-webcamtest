@@ -1,0 +1,7 @@
+outputs/
+node_modules/
+pnpm-lock.yaml
+
+ffmpeg.exe
+
+.vscode/
